@@ -1,0 +1,14 @@
+C:\Users\encho\source\repos\DomashnaLinkedListP\FindCount\bin\Debug\net8.0\FindCount.exe
+C:\Users\encho\source\repos\DomashnaLinkedListP\FindCount\bin\Debug\net8.0\FindCount.deps.json
+C:\Users\encho\source\repos\DomashnaLinkedListP\FindCount\bin\Debug\net8.0\FindCount.runtimeconfig.json
+C:\Users\encho\source\repos\DomashnaLinkedListP\FindCount\bin\Debug\net8.0\FindCount.dll
+C:\Users\encho\source\repos\DomashnaLinkedListP\FindCount\bin\Debug\net8.0\FindCount.pdb
+C:\Users\encho\source\repos\DomashnaLinkedListP\FindCount\obj\Debug\net8.0\FindCount.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\encho\source\repos\DomashnaLinkedListP\FindCount\obj\Debug\net8.0\FindCount.AssemblyInfoInputs.cache
+C:\Users\encho\source\repos\DomashnaLinkedListP\FindCount\obj\Debug\net8.0\FindCount.AssemblyInfo.cs
+C:\Users\encho\source\repos\DomashnaLinkedListP\FindCount\obj\Debug\net8.0\FindCount.csproj.CoreCompileInputs.cache
+C:\Users\encho\source\repos\DomashnaLinkedListP\FindCount\obj\Debug\net8.0\FindCount.dll
+C:\Users\encho\source\repos\DomashnaLinkedListP\FindCount\obj\Debug\net8.0\refint\FindCount.dll
+C:\Users\encho\source\repos\DomashnaLinkedListP\FindCount\obj\Debug\net8.0\FindCount.pdb
+C:\Users\encho\source\repos\DomashnaLinkedListP\FindCount\obj\Debug\net8.0\FindCount.genruntimeconfig.cache
+C:\Users\encho\source\repos\DomashnaLinkedListP\FindCount\obj\Debug\net8.0\ref\FindCount.dll

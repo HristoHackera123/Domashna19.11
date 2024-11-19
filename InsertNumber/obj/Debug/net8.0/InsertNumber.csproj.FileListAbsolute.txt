@@ -1,0 +1,14 @@
+C:\Users\encho\source\repos\DomashnaLinkedListP\InsertNumber\bin\Debug\net8.0\InsertNumber.exe
+C:\Users\encho\source\repos\DomashnaLinkedListP\InsertNumber\bin\Debug\net8.0\InsertNumber.deps.json
+C:\Users\encho\source\repos\DomashnaLinkedListP\InsertNumber\bin\Debug\net8.0\InsertNumber.runtimeconfig.json
+C:\Users\encho\source\repos\DomashnaLinkedListP\InsertNumber\bin\Debug\net8.0\InsertNumber.dll
+C:\Users\encho\source\repos\DomashnaLinkedListP\InsertNumber\bin\Debug\net8.0\InsertNumber.pdb
+C:\Users\encho\source\repos\DomashnaLinkedListP\InsertNumber\obj\Debug\net8.0\InsertNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\encho\source\repos\DomashnaLinkedListP\InsertNumber\obj\Debug\net8.0\InsertNumber.AssemblyInfoInputs.cache
+C:\Users\encho\source\repos\DomashnaLinkedListP\InsertNumber\obj\Debug\net8.0\InsertNumber.AssemblyInfo.cs
+C:\Users\encho\source\repos\DomashnaLinkedListP\InsertNumber\obj\Debug\net8.0\InsertNumber.csproj.CoreCompileInputs.cache
+C:\Users\encho\source\repos\DomashnaLinkedListP\InsertNumber\obj\Debug\net8.0\InsertNumber.dll
+C:\Users\encho\source\repos\DomashnaLinkedListP\InsertNumber\obj\Debug\net8.0\refint\InsertNumber.dll
+C:\Users\encho\source\repos\DomashnaLinkedListP\InsertNumber\obj\Debug\net8.0\InsertNumber.pdb
+C:\Users\encho\source\repos\DomashnaLinkedListP\InsertNumber\obj\Debug\net8.0\InsertNumber.genruntimeconfig.cache
+C:\Users\encho\source\repos\DomashnaLinkedListP\InsertNumber\obj\Debug\net8.0\ref\InsertNumber.dll

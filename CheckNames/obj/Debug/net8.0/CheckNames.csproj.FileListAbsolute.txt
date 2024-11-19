@@ -1,0 +1,14 @@
+C:\Users\encho\source\repos\DomashnaLinkedListP\CheckNames\bin\Debug\net8.0\CheckNames.exe
+C:\Users\encho\source\repos\DomashnaLinkedListP\CheckNames\bin\Debug\net8.0\CheckNames.deps.json
+C:\Users\encho\source\repos\DomashnaLinkedListP\CheckNames\bin\Debug\net8.0\CheckNames.runtimeconfig.json
+C:\Users\encho\source\repos\DomashnaLinkedListP\CheckNames\bin\Debug\net8.0\CheckNames.dll
+C:\Users\encho\source\repos\DomashnaLinkedListP\CheckNames\bin\Debug\net8.0\CheckNames.pdb
+C:\Users\encho\source\repos\DomashnaLinkedListP\CheckNames\obj\Debug\net8.0\CheckNames.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\encho\source\repos\DomashnaLinkedListP\CheckNames\obj\Debug\net8.0\CheckNames.AssemblyInfoInputs.cache
+C:\Users\encho\source\repos\DomashnaLinkedListP\CheckNames\obj\Debug\net8.0\CheckNames.AssemblyInfo.cs
+C:\Users\encho\source\repos\DomashnaLinkedListP\CheckNames\obj\Debug\net8.0\CheckNames.csproj.CoreCompileInputs.cache
+C:\Users\encho\source\repos\DomashnaLinkedListP\CheckNames\obj\Debug\net8.0\CheckNames.dll
+C:\Users\encho\source\repos\DomashnaLinkedListP\CheckNames\obj\Debug\net8.0\refint\CheckNames.dll
+C:\Users\encho\source\repos\DomashnaLinkedListP\CheckNames\obj\Debug\net8.0\CheckNames.pdb
+C:\Users\encho\source\repos\DomashnaLinkedListP\CheckNames\obj\Debug\net8.0\CheckNames.genruntimeconfig.cache
+C:\Users\encho\source\repos\DomashnaLinkedListP\CheckNames\obj\Debug\net8.0\ref\CheckNames.dll
